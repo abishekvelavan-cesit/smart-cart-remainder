@@ -1,0 +1,4 @@
+<Response>
+  <Speak>This is the demo between the Open A.I. realtime API and Plivo.</Speak>
+  <Redirect>https://84vzzbtd-5000.inc1.devtunnels.ms/</Redirect>
+</Response>
