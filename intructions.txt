@@ -1,3 +1,3 @@
 <Response>
-  <Redirect>https://5e38-2405-201-e005-189f-24c6-2c4a-548f-55dd.ngrok-free.app/webhook</Redirect>
+  <Redirect>https://3a7c-128-85-42-152.ngrok-free.app/webhook</Redirect>
 </Response>
